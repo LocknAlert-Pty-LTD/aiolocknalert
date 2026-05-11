@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: aiolocknalert
+Version: 0.1.0
+Summary: Async Python client for LocknAlert bridge onboarding
+Author: Raine
+License-Expression: MIT
+Project-URL: Homepage, https://github.com/LocknAlert-Pty-LTD/aiolocknalert
+Project-URL: Repository, https://github.com/LocknAlert-Pty-LTD/aiolocknalert
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: aiohttp>=3.9.0
+
+# aiolocknalert
+
+Async Python client for LocknAlert bridge onboarding.
+
+## Install
+
+```bash
+pip install aiolocknalert
