@@ -91,7 +91,7 @@ All bridge communication occurs over HTTPS.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/aiolocknalert.git
+git clone https://github.com/LocknAlert-Pty-LTD/aiolocknalert.git
 cd aiolocknalert
 ```
 
