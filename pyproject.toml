@@ -23,6 +23,9 @@ Repository = "https://github.com/LocknAlert-Pty-LTD/aiolocknalert"
 [tool.setuptools.packages.find]
 where = ["src"]
 
+[tool.setuptools.package-data]
+aiolocknalert = ["py.typed"]
+
 [tool.pytest.ini_options]
 asyncio_mode = "auto"
 testpaths = ["tests"]
